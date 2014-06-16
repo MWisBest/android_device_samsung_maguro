@@ -1,3 +1,7 @@
+# Boot animation
+TARGET_SCREEN_HEIGHT := 1280
+TARGET_SCREEN_WIDTH := 720
+
 # Inherit OmniROM configuration
 $(call inherit-product, vendor/omni/config/common.mk)
 
