@@ -1,34 +1,17 @@
 [
     {
         "repository": "android_device_samsung_tuna",
-        "target_path": "device/samsung/tuna"
+        "target_path": "device/samsung/tuna",
+        "revision": "omni-4.4-pvr"
     },
     {
         "repository": "android_kernel_samsung_tuna",
-        "target_path": "kernel/samsung/tuna"
-    },
-    {
-        "repository": "proprietary_vendor_broadcom",
-        "target_path": "vendor/broadcom"
-    },
-    {
-        "repository": "proprietary_vendor_imgtec",
-        "target_path": "vendor/imgtec"
-    },
-    {
-        "repository": "proprietary_vendor_invensense",
-        "target_path": "vendor/invensense"
-    },
-    {
-        "repository": "proprietary_vendor_nxp",
-        "target_path": "vendor/nxp"
+        "target_path": "kernel/samsung/tuna",
+        "revision": "omni-4.4-pvr"
     },
     {
         "repository": "proprietary_vendor_samsung",
-        "target_path": "vendor/samsung"
-    },
-    {
-        "repository": "proprietary_vendor_widevine",
-        "target_path": "vendor/widevine"
+        "target_path": "vendor/samsung",
+        "revision": "omni-4.4-pvr"
     }
 ]
