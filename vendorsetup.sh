@@ -15,4 +15,5 @@
 #
 
 add_lunch_combo aosp_maguro-userdebug
+add_lunch_combo fml_maguro-userdebug
 add_lunch_combo omni_maguro-userdebug
